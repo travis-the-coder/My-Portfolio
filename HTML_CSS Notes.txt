@@ -1,0 +1,3 @@
+Notes
+- section#about-me -> <section id="about-me"> [Interesting how this shorthand creates both the section tag and the complete id portion]
+- ul.nav__lin--list -> <ul class="nav__link--list"> [<-- This is utilizing BEM CSS]
